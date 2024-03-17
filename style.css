@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box-div{
+    margin: auto;
+    width: 60%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 400;
+    background: whitesmoke;
+}
+
+
+
+body{
+    background: #4e440f;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0b7198;
+    text-shadow: 2px 2px 4px #bcbaba;
+}
+
+.div-image{
+    background: url(image/stock-photo-top-view-of-ethnic-female-freelancer-eating-biscuit-while-sitting-at-wooden-table-with-laptop-and-2250979853.jpg);
+    width: 100%;
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
